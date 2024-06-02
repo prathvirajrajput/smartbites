@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "name": "tinku",
+      "address": "ujjain",
+      "timing": "10am-11pm",
+      "cuisine": "north indian",
+      "id": 14
+    },
+    {
+      "name": "a1",
+      "address": "bhopal",
+      "timing": "10am-11pm",
+      "cuisine": "qqqq",
+      "id": 15
+    },
+    {
+      "name": "k22",
+      "address": "bhopal",
+      "timing": "10am-11pm",
+      "cuisine": "indian",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "name": "the boys",
+      "address": "seoni",
+      "timing": "10am-11pm",
+      "cuisine": "cafe",
+      "id": 18
+    },
+    {
+      "name": "eqwe",
+      "address": "cvcxcv",
+      "timing": "sadas",
+      "cuisine": "rty",
+      "id": 19
+    }
+  ]
+}
